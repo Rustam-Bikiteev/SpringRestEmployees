@@ -9,14 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92b0c92f-bfb5-4135-b2a1-fea4aedf3990" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rustambikiteev/spring/rest/exception_handling/EmployeeGlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rustambikiteev/spring/rest/exception_handling/EmployeeIncorrectData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/rustambikiteev/spring/rest/exception_handling/NoSuchEmployeeException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+    <list default="true" id="92b0c92f-bfb5-4135-b2a1-fea4aedf3990" name="Changes" comment="Adds exception handler logic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/rustambikiteev/spring/rest/configuration/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rustambikiteev/spring/rest/configuration/MyConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/rustambikiteev/spring/rest/controller/MyRESTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/rustambikiteev/spring/rest/controller/MyRESTController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,8 +177,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671009469956</updated>
-      <workItem from="1671009471523" duration="6102000" />
+      <workItem from="1671009471523" duration="7292000" />
     </task>
+    <task id="LOCAL-00001" summary="Adds exception handler logic">
+      <created>1671018039520</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671018039520</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,5 +205,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Adds exception handler logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adds exception handler logic" />
   </component>
 </project>
